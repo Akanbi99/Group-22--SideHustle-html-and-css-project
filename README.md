@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Akanbi99/Group-22-SideHustle-Project1)
+- Live Site URL: (https://akanbi99.github.io/Group-22-SideHustle-Project1/)
 
 ### Built with
 
@@ -37,4 +37,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-Thanks to God Almighty, and then Ade Faj and all other contributors, who have actively see to the success of this mini project.
+All thanks to God Almighty, and then Ade Faj and all other contributors, who have actively see to the success of this mini project.
