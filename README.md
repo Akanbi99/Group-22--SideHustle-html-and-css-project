@@ -37,4 +37,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-Thanks to God Almighty, and then Ade Faj and all other contributors, who has actively see to the success of this mini project.
+Thanks to God Almighty, and then Ade Faj and all other contributors, who have actively see to the success of this mini project.
